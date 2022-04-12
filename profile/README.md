@@ -1,3 +1,8 @@
-## On the move!
+## We've moved!
 
-We are still in the process of moving to Enecs Software. You can find the new GitHub organization [here](https://github.com/Enecs) and view our new website at <https://enecs.software>
+This organization will continue to exist, as a placeholder for any old repository urls. Though all public repositories have been moved to [@Enecs](https://github.com/Enecs).
+
+## Links
+
+- [GitHub](https://github.com/Enecs)
+- [Website](https://enecs.software)
